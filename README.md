@@ -3,10 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=victorlim-12)
 
-- 🔭 I’m currently working on **Spotify Listening Analysis**, **Personal Website**, **Audio-based ML End-to-end System**
-- 🌱 I’m currently improving myself on **Next.js, Python, Database**
-- 💬 Ask me about **Photography 📸**, 
-
 I do work with some of these:
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI">
